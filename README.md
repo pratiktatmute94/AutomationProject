@@ -1,3 +1,3 @@
 # AutomationProject
 
-#this project is created for 11 sept batch
+This project is created for 11 sept batch
